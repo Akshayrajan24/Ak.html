@@ -1,3 +1,18 @@
 <center>
 <h1>Ak</h1>
 </center>
+<p>
+    This is new our branch
+    git add. --> means addd theall modification 
+    git commit -m "message" --> means commit the all modification
+    git push --> means push the all modification    
+    git pull --> means pull  is there any changes in the git , it will pull from that and apply here.
+    git checkout -b <branch_name> --> means create a new branch
+    git checkout <branch_name> --> means switch to that branch
+    git status --> means check the status of the git
+    git branch --> means check the all branches
+    git branch -a --> means check the all branches including remote branches
+    git branch -d <branch_name> --> means delete the branch
+    
+    
+</p>
